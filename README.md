@@ -1,4 +1,4 @@
-# Backend Challenge
+# Laravel Backend Challenge
 
 Senden temiz bir **Laravel** kurulumuna eklendiğinde çalışacak bir paket geliştirmeni istiyoruz. (kurulum için gereken artisan komutlarını da dökümante etmen gerekli)
 
